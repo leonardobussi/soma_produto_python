@@ -6,7 +6,7 @@ c = int(input("digite o valor de C "))
 
 b = b * (-1) #inversa do valor de B
 
-print(f"\n{a}x² + {b} + {c}")
+print(f"\n{a}x² + {b}x + {c} = 0")
 
 contador = 1
 
